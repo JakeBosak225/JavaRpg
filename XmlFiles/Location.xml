@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Locations>
+    <Location>
+        <id>1</id>
+        <name>Your House</name>
+        <description>Your house, Small but cozy.</description>
+        <locationToNorth>2</locationToNorth>
+        <locationToEast>0</locationToEast>
+        <locationToSouth>0</locationToSouth>
+        <locationToWest>0</locationToWest>
+        <enemyLivingHere>0</enemyLivingHere>
+        <questHere>1</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+
+    <Location>
+        <id>2</id>
+        <name>Town</name>
+        <description>Your home town, its been quite since the Monsters took over the Castle.</description>
+        <locationToNorth>0</locationToNorth>
+        <locationToEast>8</locationToEast>
+        <locationToSouth>1</locationToSouth>
+        <locationToWest>3</locationToWest>
+        <enemyLivingHere>0</enemyLivingHere>
+        <questHere>0</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>True</vendorHere>
+    </Location>
+
+    <Location>
+        <id>3</id>
+        <name>Forest Path</name>
+        <description>A dirt road that leads to a Farm.</description>
+        <locationToNorth>0</locationToNorth>
+        <locationToEast>2</locationToEast>
+        <locationToSouth>4</locationToSouth>
+        <locationToWest>0</locationToWest>
+        <enemyLivingHere>1</enemyLivingHere>
+        <questHere>0</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+
+    <Location>
+        <id>4</id>
+        <name>Beet Farm</name>
+        <description>A farm of only beets and nothing else.</description>
+        <locationToNorth>3</locationToNorth>
+        <locationToEast>0</locationToEast>
+        <locationToSouth>0</locationToSouth>
+        <locationToWest>5</locationToWest>
+        <enemyLivingHere>0</enemyLivingHere>
+        <questHere>2</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+
+    <Location>
+        <id>5</id>
+        <name>Deep Forest</name>
+        <description>Miles away from the Farm, a Cave can be seen in the distance.</description>
+        <locationToNorth>6</locationToNorth>
+        <locationToEast>4</locationToEast>
+        <locationToSouth>0</locationToSouth>
+        <locationToWest>0</locationToWest>
+        <enemyLivingHere>1</enemyLivingHere>
+        <questHere>0</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+
+    <Location>
+        <id>6</id>
+        <name>Cave</name>
+        <description>The cave is dark, you light your torch, its covered in spider-web.</description>
+        <locationToNorth>7</locationToNorth>
+        <locationToEast>0</locationToEast>
+        <locationToSouth>5</locationToSouth>
+        <locationToWest>0</locationToWest>
+        <enemyLivingHere>2</enemyLivingHere>
+        <questHere>0</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+
+    <Location>
+        <id>7</id>
+        <name>Spider Queens Lair</name>
+        <description>The Spider Queen sits on a throne of webbing and bone ready to attack.</description>
+        <locationToNorth>0</locationToNorth>
+        <locationToEast>0</locationToEast>
+        <locationToSouth>6</locationToSouth>
+        <locationToWest>0</locationToWest>
+        <enemyLivingHere>3</enemyLivingHere>
+        <questHere>0</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+
+    <Location>
+        <id>8</id>
+        <name>Royal Road</name>
+        <description>Leading to the Castle, Royalty would use this road to come into town.</description>
+        <locationToNorth>0</locationToNorth>
+        <locationToEast>9</locationToEast>
+        <locationToSouth>0</locationToSouth>
+        <locationToWest>2</locationToWest>
+        <enemyLivingHere>0</enemyLivingHere>
+        <questHere>3</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+
+    <Location>
+        <id>9</id>
+        <name>Castle Entrance</name>
+        <description>What once was a blooming garden is now only dust and rubble after the Monster attack on the Castle.</description>
+        <locationToNorth>0</locationToNorth>
+        <locationToEast>10</locationToEast>
+        <locationToSouth>0</locationToSouth>
+        <locationToWest>8</locationToWest>
+        <enemyLivingHere>4</enemyLivingHere>
+        <questHere>0</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+
+    <Location>
+        <id>10</id>
+        <name>Castle Foyer</name>
+        <description>A long hall lined with the portraits of all the past kings and queens. A dark presence can be felt.</description>
+        <locationToNorth>12</locationToNorth>
+        <locationToEast>0</locationToEast>
+        <locationToSouth>11</locationToSouth>
+        <locationToWest>9</locationToWest>
+        <enemyLivingHere>4</enemyLivingHere>
+        <questHere>0</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+
+    <Location>
+        <id>11</id>
+        <name>Storage Room</name>
+        <description>An old storage room, There's a chest in here.</description>
+        <locationToNorth>10</locationToNorth>
+        <locationToEast>0</locationToEast>
+        <locationToSouth>0</locationToSouth>
+        <locationToWest>0</locationToWest>
+        <enemyLivingHere>0</enemyLivingHere>
+        <questHere>0</questHere>
+        <itemNeededToEnter>7</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+
+    <Location>
+        <id>12</id>
+        <name>The Dining Hall</name>
+        <description>The long table is surprisingly clean... I guess Monsters dont eat at the table.</description>
+        <locationToNorth>0</locationToNorth>
+        <locationToEast>13</locationToEast>
+        <locationToSouth>10</locationToSouth>
+        <locationToWest>0</locationToWest>
+        <enemyLivingHere>5</enemyLivingHere>
+        <questHere>0</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+
+    <Location>
+        <id>13</id>
+        <name>The Royal Council Room</name>
+        <description>The room is dark and full or terrors, Dark magic has taken place here.</description>
+        <locationToNorth>0</locationToNorth>
+        <locationToEast>0</locationToEast>
+        <locationToSouth>14</locationToSouth>
+        <locationToWest>12</locationToWest>
+        <enemyLivingHere>5</enemyLivingHere>
+        <questHere>0</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+
+    <Location>
+        <id>14</id>
+        <name>The Throne Room</name>
+        <description>The Dragon King sits on the throne he stole from our king, His sword is already drawn.</description>
+        <locationToNorth>13</locationToNorth>
+        <locationToEast>0</locationToEast>
+        <locationToSouth>0</locationToSouth>
+        <locationToWest>0</locationToWest>
+        <enemyLivingHere>6</enemyLivingHere>
+        <questHere>0</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+
+    <Location>
+        <id>15</id>
+        <name>The Dark Throne Room</name>
+        <description>The Dragon kings throne room, he can now show his true form.</description>
+        <locationToNorth>0</locationToNorth>
+        <locationToEast>0</locationToEast>
+        <locationToSouth>0</locationToSouth>
+        <locationToWest>0</locationToWest>
+        <enemyLivingHere>0</enemyLivingHere>
+        <questHere>0</questHere>
+        <itemNeededToEnter>0</itemNeededToEnter>
+        <vendorHere>False</vendorHere>
+    </Location>
+</Locations>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Weapons>
+    <Weapon>
+        <id>10</id>
+        <name>Rusty Sword</name>
+        <namePlural>Rusty Swords</namePlural>
+        <minAttack>0</minAttack>
+        <maxAttack>5</maxAttack>
+    </Weapon>
+
+    <Weapon>
+        <id>11</id>
+        <name>Battle Axe</name>
+        <namePlural>Battle Axes</namePlural>
+        <minAttack>2</minAttack>
+        <maxAttack>6</maxAttack>
+    </Weapon>
+
+    <Weapon>
+        <id>12</id>
+        <name>Silver Sword</name>
+        <namePlural>Silver Swords</namePlural>
+        <minAttack>4</minAttack>
+        <maxAttack>10</maxAttack>
+    </Weapon>
+
+    <Weapon>
+        <id>13</id>
+        <name>Bow and Arrow</name>
+        <namePlural>Bow and Arrows</namePlural>
+        <minAttack>1</minAttack>
+        <maxAttack>15</maxAttack>
+    </Weapon>
+
+    <Weapon>
+        <id>14</id>
+        <name>The Demon Slayer</name>
+        <namePlural>Demon Slayers</namePlural>
+        <minAttack>6</minAttack>
+        <maxAttack>15</maxAttack>
+    </Weapon>
+</Weapons>

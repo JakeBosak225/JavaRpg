@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Quests>
+    <Quest>
+        <id>1</id>
+        <name>Save The Day</name>
+        <description>The Town has been over thrown with Monsters, you need to save everyone from this Darkness.</description>
+        <rewardGold>20</rewardGold>
+        <rewardExp>20</rewardExp>
+
+        <questCompleteItems>
+            <questCompleteItem>
+                <itemId>6</itemId>
+                <quantity>1</quantity>
+            </questCompleteItem>
+        </questCompleteItems>
+
+        <questRewardItems>
+            <questRewardItem>
+                <itemId>23</itemId>
+                <quantity>1</quantity>
+            </questRewardItem>
+            <questRewardItem>
+                <itemId>13</itemId>
+                <quantity>1</quantity>
+            </questRewardItem>
+        </questRewardItems>
+    </Quest>
+
+    <Quest>
+        <id>2</id>
+        <name>Kill the Spider Queen</name>
+        <description>Kill the spider queen and bring her heart. Ill give you this battle axe.</description>
+        <rewardGold>10</rewardGold>
+        <rewardExp>15</rewardExp>
+
+        <questCompleteItems>
+            <questCompleteItem>
+                <itemId>3</itemId>
+                <quantity>1</quantity>
+            </questCompleteItem>
+        </questCompleteItems>
+
+        <questRewardItems>
+            <questRewardItem>
+                <itemId>11</itemId>
+                <quantity>1</quantity>
+            </questRewardItem>
+        </questRewardItems>
+    </Quest>
+
+    <Quest>
+        <id>3</id>
+        <name>A Friendly Thieve</name>
+        <description>I stole this key form the castle. Im not sure where to use it, but bring me some
+            Hell Hound Furs and Dark Armor and maybe ill trade ya.</description>
+        <rewardGold>15</rewardGold>
+        <rewardExp>15</rewardExp>
+
+        <questCompleteItems>
+            <questCompleteItem>
+                <itemId>4</itemId>
+                <quantity>4</quantity>
+            </questCompleteItem>
+
+            <questCompleteItem>
+                <itemId>5</itemId>
+                <quantity>2</quantity>
+            </questCompleteItem>
+        </questCompleteItems>
+
+        <questRewardItems>
+            <questRewardItem>
+                <itemId>7</itemId>
+                <quantity>1</quantity>
+            </questRewardItem>
+
+            <questRewardItem>
+                <itemId>22</itemId>
+                <quantity>1</quantity>
+            </questRewardItem>
+        </questRewardItems>
+    </Quest>
+</Quests>

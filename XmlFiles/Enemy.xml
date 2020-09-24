@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Enimes>
+    <Enemy>
+        <id>1</id>
+        <name>Slime Monster</name>
+        <currentHp>4</currentHp>
+        <maxHp>4</maxHp>
+        <minRewardGold>1</minRewardGold>
+        <maxRewardGold>5</maxRewardGold>
+        <minRewardExp>1</minRewardExp>
+        <maxRewardExp>5</maxRewardExp>
+        <minAttack>0</minAttack>
+        <maxAttack>3</maxAttack>
+        <lootTable>
+            <Item>
+                <itemId>1</itemId>
+                <minQuantity>1</minQuantity>
+                <maxQuantity>3</maxQuantity>
+                <dropRate>75</dropRate>
+                <isKeyItem>False</isKeyItem>
+            </Item>
+
+            <Item>
+                <itemId>20</itemId>
+                <minQuantity>1</minQuantity>
+                <maxQuantity>1</maxQuantity>
+                <dropRate>50</dropRate>
+                <isKeyItem>False</isKeyItem>
+            </Item>
+        </lootTable>
+    </Enemy>
+
+    <Enemy>
+        <id>2</id>
+        <name>Giant Spider</name>
+        <currentHp>5</currentHp>
+        <maxHp>5</maxHp>
+        <minRewardGold>2</minRewardGold>
+        <maxRewardGold>8</maxRewardGold>
+        <minRewardExp>2</minRewardExp>
+        <maxRewardExp>8</maxRewardExp>
+        <minAttack>0</minAttack>
+        <maxAttack>4</maxAttack>
+
+        <lootTable>
+            <Item>
+                <itemId>2</itemId>
+                <minQuantity>1</minQuantity>
+                <maxQuantity>2</maxQuantity>
+                <dropRate>75</dropRate>
+                <isKeyItem>False</isKeyItem>
+            </Item>
+
+            <Item>
+                <itemId>20</itemId>
+                <minQuantity>1</minQuantity>
+                <maxQuantity>1</maxQuantity>
+                <dropRate>50</dropRate>
+                <isKeyItem>False</isKeyItem>
+            </Item>
+        </lootTable>
+    </Enemy>
+
+    <Enemy>
+        <id>3</id>
+        <name>Giant Spider Queen</name>
+        <currentHp>10</currentHp>
+        <maxHp>10</maxHp>
+        <minRewardGold>10</minRewardGold>
+        <maxRewardGold>25</maxRewardGold>
+        <minRewardExp>10</minRewardExp>
+        <maxRewardExp>18</maxRewardExp>
+        <minAttack>0</minAttack>
+        <maxAttack>5</maxAttack>
+
+        <lootTable>
+            <Item>
+                <itemId>3</itemId>
+                <minQuantity>1</minQuantity>
+                <maxQuantity>1</maxQuantity>
+                <dropRate>100</dropRate>
+                <isKeyItem>True</isKeyItem>
+            </Item>
+
+            <Item>
+                <itemId>2</itemId>
+                <minQuantity>2</minQuantity>
+                <maxQuantity>3</maxQuantity>
+                <dropRate>75</dropRate>
+                <isKeyItem>False</isKeyItem>
+            </Item>
+
+            <Item>
+                <itemId>21</itemId>
+                <minQuantity>1</minQuantity>
+                <maxQuantity>1</maxQuantity>
+                <dropRate>50</dropRate>
+                <isKeyItem>False</isKeyItem>
+            </Item>
+        </lootTable>
+    </Enemy>
+
+    <Enemy>
+        <id>4</id>
+        <name>Hell Hound</name>
+        <currentHp>7</currentHp>
+        <maxHp>7</maxHp>
+        <minRewardGold>10</minRewardGold>
+        <maxRewardGold>15</maxRewardGold>
+        <minRewardExp>10</minRewardExp>
+        <maxRewardExp>15</maxRewardExp>
+        <minAttack>0</minAttack>
+        <maxAttack>5</maxAttack>
+
+        <lootTable>
+            <Item>
+                <itemId>4</itemId>
+                <minQuantity>1</minQuantity>
+                <maxQuantity>3</maxQuantity>
+                <dropRate>50</dropRate>
+                <isKeyItem>False</isKeyItem>
+            </Item>
+
+            <Item>
+                <itemId>21</itemId>
+                <minQuantity>1</minQuantity>
+                <maxQuantity>1</maxQuantity>
+                <dropRate>40</dropRate>
+                <isKeyItem>False</isKeyItem>
+            </Item>
+        </lootTable>
+    </Enemy>
+
+    <Enemy>
+        <id>5</id>
+        <name>Demon Guard</name>
+        <currentHp>9</currentHp>
+        <maxHp>9</maxHp>
+        <minRewardGold>15</minRewardGold>
+        <maxRewardGold>18</maxRewardGold>
+        <minRewardExp>10</minRewardExp>
+        <maxRewardExp>15</maxRewardExp>
+        <minAttack>0</minAttack>
+        <maxAttack>6</maxAttack>
+
+        <lootTable>
+            <Item>
+                <itemId>5</itemId>
+                <minQuantity>1</minQuantity>
+                <maxQuantity>1</maxQuantity>
+                <dropRate>50</dropRate>
+                <isKeyItem>False</isKeyItem>
+            </Item>
+
+            <Item>
+                <itemId>21</itemId>
+                <minQuantity>1</minQuantity>
+                <maxQuantity>1</maxQuantity>
+                <dropRate>35</dropRate>
+                <isKeyItem>False</isKeyItem>
+            </Item>
+        </lootTable>
+    </Enemy>
+
+    <Enemy>
+        <id>6</id>
+        <name>The Dragon King</name>
+        <currentHp>20</currentHp>
+        <maxHp>20</maxHp>
+        <minRewardGold>25</minRewardGold>
+        <maxRewardGold>30</maxRewardGold>
+        <minRewardExp>20</minRewardExp>
+        <maxRewardExp>28</maxRewardExp>
+        <minAttack>0</minAttack>
+        <maxAttack>9</maxAttack>
+
+        <lootTable>
+            <Item>
+                <itemId>6</itemId>
+                <minQuantity>1</minQuantity>
+                <maxQuantity>1</maxQuantity>
+                <dropRate>100</dropRate>
+                <isKeyItem>True</isKeyItem>
+            </Item>
+
+            <Item>
+                <itemId>5</itemId>
+                <minQuantity>1</minQuantity>
+                <maxQuantity>1</maxQuantity>
+                <dropRate>50</dropRate>
+                <isKeyItem>False</isKeyItem>
+            </Item>
+
+            <Item>
+                <itemId>22</itemId>
+                <minQuantity>1</minQuantity>
+                <maxQuantity>1</maxQuantity>
+                <dropRate>15</dropRate>
+                <isKeyItem>False</isKeyItem>
+            </Item>
+        </lootTable>
+    </Enemy>
+
+</Enimes>

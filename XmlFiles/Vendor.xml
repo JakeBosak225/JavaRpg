@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Vendor>
+    <name>Traveling Vendor</name>
+
+
+    
+<VendorItems><VendorItem><itemId>20</itemId><quantityOnHand>15</quantityOnHand><sellPrice>10</sellPrice></VendorItem><VendorItem><itemId>21</itemId><quantityOnHand>7</quantityOnHand><sellPrice>25</sellPrice></VendorItem><VendorItem><itemId>13</itemId><quantityOnHand>1</quantityOnHand><sellPrice>150</sellPrice></VendorItem><VendorItem><itemId>23</itemId><quantityOnHand>2</quantityOnHand><sellPrice>175</sellPrice></VendorItem></VendorItems></Vendor>

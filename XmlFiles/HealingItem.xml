@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<HealingItems>
+    <HealingItem>
+        <id>20</id>
+        <name>Potion</name>
+        <namePlural>Potions</namePlural>
+        <amountToHeal>5</amountToHeal>
+    </HealingItem>
+
+    <HealingItem>
+        <id>21</id>
+        <name>Enchanted Potion</name>
+        <namePlural>Enchanted Potions</namePlural>
+        <amountToHeal>10</amountToHeal>
+    </HealingItem>
+
+    <HealingItem>
+        <id>22</id>
+        <name>Super Potion</name>
+        <namePlural>Super Potions</namePlural>
+        <amountToHeal>30</amountToHeal>
+    </HealingItem>
+
+    <HealingItem>
+        <id>23</id>
+        <name>Max Potion</name>
+        <namePlural>Max Potions</namePlural>
+        <amountToHeal>999</amountToHeal>
+    </HealingItem>
+</HealingItems>

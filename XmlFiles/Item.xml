@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Items>
+    <Item>
+        <id>1</id>
+        <name>Slime Goo</name>
+        <namePlural>Slime Goo</namePlural>
+    </Item>
+
+    <Item>
+        <id>2</id>
+        <name>Spider Fang</name>
+        <namePlural>Spider Fangs</namePlural>
+    </Item>
+
+    <Item>
+        <id>3</id>
+        <name>Spider Queens Heart</name>
+        <namePlural>Spider Queens Hearts</namePlural>
+    </Item>
+
+    <Item>
+        <id>4</id>
+        <name>Hell Hound Fur</name>
+        <namePlural>Hell Hound Furs</namePlural>
+    </Item>
+
+    <Item>
+        <id>5</id>
+        <name>Demon Coin</name>
+        <namePlural>Demon Coins</namePlural>
+    </Item>
+
+    <Item>
+        <id>6</id>
+        <name>Demon King Heart</name>
+        <namePlural>Demon King Hearts</namePlural>
+    </Item>
+
+    <Item>
+        <id>7</id>
+        <name>Storage Room Key</name>
+        <namePlural>Storage Room Keys</namePlural>
+    </Item>
+</Items>
